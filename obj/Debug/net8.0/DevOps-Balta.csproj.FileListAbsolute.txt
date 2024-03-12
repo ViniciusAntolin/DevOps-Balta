@@ -1,0 +1,15 @@
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\bin\Debug\net8.0\DevOps-Balta.exe
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\bin\Debug\net8.0\DevOps-Balta.deps.json
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\bin\Debug\net8.0\DevOps-Balta.runtimeconfig.json
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\bin\Debug\net8.0\DevOps-Balta.dll
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\bin\Debug\net8.0\DevOps-Balta.pdb
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\DevOps-Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\DevOps-Balta.AssemblyInfoInputs.cache
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\DevOps-Balta.AssemblyInfo.cs
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\DevOps-Balta.csproj.CoreCompileInputs.cache
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\DevOps-Balta.sourcelink.json
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\DevOps-Balta.dll
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\refint\DevOps-Balta.dll
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\DevOps-Balta.pdb
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\DevOps-Balta.genruntimeconfig.cache
+C:\Users\ViniciusPires\source\repos\ViniciusAntolin\DevOps-Balta\obj\Debug\net8.0\ref\DevOps-Balta.dll
